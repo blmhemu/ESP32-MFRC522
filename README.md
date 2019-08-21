@@ -5,4 +5,4 @@ Development is still in progress.
 Full documentation in a week or two.
 
 # UPDATE
-This repo is no longer maintained. Sorry for any inconvenience.
+This repo is no longer maintained by me but PRs and forks are welcome. Sorry for any inconvenience.
